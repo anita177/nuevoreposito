@@ -1,7 +1,10 @@
  html{
-background:#b7e5ff; /*el color del fondo*/ 
+background-image: blue;
+width="100" ;
+height="100"
+background:blue; /*el color del fondo*/ 
 font-size:40px; /*tamaño del texto en pixeles*/ 
-color: blue; /*color de las letras*/ 
+/*color: blue; /*color de las letras*/ 
 padding:100px; /*el espacio entre el borde y el contenido*/ 
 border:10px solid white; /*tamaño, forma y color del borde de la pagina*/  
 } 
