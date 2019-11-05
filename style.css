@@ -1,5 +1,5 @@
  <style>   
-bodybackground:#b7e5ff; /*el color del fondo*/ 
+ {background:#b7e5ff; /*el color del fondo*/ 
 font-size:40px; /*tamaño del texto en pixeles*/ 
 color: blue; /*color de las letras*/ 
 padding:100px; /*el espacio entre el borde y el contenido*/ 
@@ -8,46 +8,15 @@ border:10px solid white; /*tamaño, forma y color del borde de la pagina*/
 h1{color:black;} /*color del encabezado*/
 </style>   
 
-     <meta charset="UTF-12">
-     <title>Portafolio de Trabajo :) </title>
-     </head>
-     <body bgcolor="pink">
-<img src="cris.jpeg" width="100" height="100"/>
+  
 
 
-<body> 
 
-      My name is: Ana Cristina Galvan Garcia. I'm 20 years old 
-      <br> My skills: 
-      <ul>
-      
-       <li>Suite adobe</li>  
-       
-       <li>Photoshop</li> 
-       
-       <li>After effects</li> 
-      
-       <li>Ilustrador</li>  
-       
-       
-       <li>Gevelop</li> 
 
-       <li>Wordpress</li>   
-
-       <li>Blender (Animación 3D)</li> 
-      
-       </ul>
-       </body>
+     
        
 
 
 
 
-       <!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
-
-<!-- Optional theme -->
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap-theme.min.css" integrity="sha384-6pzBo3FDv/PJ8r2KRkGHifhEocL+1X2rVCTTkUfGk7/0pbek5mMa1upzvWbrUbOZ" crossorigin="anonymous">
-
-<!-- Latest compiled and minified JavaScript -->
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+    
